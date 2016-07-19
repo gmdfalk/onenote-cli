@@ -1,2 +1,2 @@
 # onenote-cli
-A command line client for OneNote
+A command line client for OneNote.
